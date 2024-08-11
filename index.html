@@ -103,7 +103,7 @@
 <div class="container">
     <h1>Blogger Post Cloner</h1>
     <label for="blogUrl">Masukkan URL Blogspot:</label>
-    <input type="text" id="blogUrl" placeholder="https://contoh.blogspot.com" />
+    <input type="text" id="blogUrl" placeholder="contoh.blogspot.com" />
     <button onclick="cloneBlog()">Clone Blog</button>
     <div class="output" id="output"></div>
     <p style="text-indent: 20px;">
@@ -139,7 +139,7 @@
             const downloadLink = document.createElement('a');
             downloadLink.href = URL.createObjectURL(file);
             downloadLink.download = 'clonerBlogger.xml';
-            downloadLink.innerText = 'Download clonerBlogger.xml';
+            downloadLink.innerText = 'Download Hasil Clone';
             outputDiv.innerHTML = '';
             outputDiv.appendChild(downloadLink);
 
