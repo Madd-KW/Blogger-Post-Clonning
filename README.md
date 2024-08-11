@@ -1,4 +1,5 @@
-# Blogger-Post-Clonning
-yeah bro, this is funy repo 
+Blogger-Post-Clonning
+yeah bro, this is funy repo 😹
 
-Demo:
+Demo: https://madd-kw.github.io/Blogger-Post-Clonning/
+or https://blogger-post-clonning.vercel.app/
